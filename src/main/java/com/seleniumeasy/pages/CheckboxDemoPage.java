@@ -73,8 +73,4 @@ public class CheckboxDemoPage {
 
 	}
 
-	public void tearDown() {
-		driver.quit();
-	}
-
 }
